@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1539288043 source:d:\project codeblocs\ctek_how_array\main.c
+	"STACK_how_ARRAY_H.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1539288043 source:d:\project codeblocs\ctek_how_array\stack_how_array_h.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1539287758 d:\project codeblocs\ctek_how_array\stack_how_array_h.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+

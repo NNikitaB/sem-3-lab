@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1539399850 source:d:\project codeblocs\queue_how_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"RING_QUEUE_how_ARRAY.h"
+
+1539399659 source:d:\project codeblocs\queue_how_array\ring_queue_how_array.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1539399659 d:\project codeblocs\queue_how_array\ring_queue_how_array.h
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
