@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1539841155 source:d:\project codeblocs\dm_lab1_part_2\main.c
+	"oper_otn.h"
+	"sv_otn.h"
+
+1539843847 source:d:\project codeblocs\dm_lab1_part_2\oper_otn.c
+	<stdio.h>
+	<stdlib.h>
+
+1539838000 source:d:\project codeblocs\dm_lab1_part_2\sv_otn.c
+	<stdio.h>
+	<stdlib.h>
+
+1539843847 d:\project codeblocs\dm_lab1_part_2\oper_otn.h
+	<stdio.h>
+	<stdlib.h>
+
+1538618398 d:\project codeblocs\dm_lab1_part_2\sv_otn.h
+
