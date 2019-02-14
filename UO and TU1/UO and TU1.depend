@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1550126396 source:d:\cods\uo and tu1\modl.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1550122788 source:d:\cods\uo and tu1\main.c
+
